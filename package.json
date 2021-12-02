@@ -1,5 +1,5 @@
 {
-  "name": "aop-sp",
+  "name": "sso-smal-passport",
   "version": "1.0.0",
   "description": "Art of Possible Service Provider",
   "main": "index.js",
