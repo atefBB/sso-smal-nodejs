@@ -1,0 +1,24 @@
+{
+  "name": "aop-sp",
+  "version": "1.0.0",
+  "description": "Art of Possible Service Provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "authors": [
+    "Jeffry Houser",
+    "Atef Ben Ali"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "nodemon": "^2.0.15",
+    "passport": "^0.4.0",
+    "passport-saml": "^1.0.0"
+  }
+}
